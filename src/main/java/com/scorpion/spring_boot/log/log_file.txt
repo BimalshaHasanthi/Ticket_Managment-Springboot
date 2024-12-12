@@ -1,0 +1,101 @@
+[2024-12-12 04:08:43] [INFO : ] Configuration saved to system_config.txt
+[2024-12-12 04:08:43] [INFO : ] Total Tickets: 50
+[2024-12-12 04:08:43] [INFO : ] Ticket Release Rate: 5000
+[2024-12-12 04:08:43] [INFO : ] Ticket Retrieval Rate: 3000
+[2024-12-12 04:08:43] [INFO : ] Max Ticket Capacity: 8
+[2024-12-12 04:09:27] [INFO : ] Configuration loaded from system_config.txt
+[2024-12-12 04:09:27] [INFO : ] Total Tickets: 50
+[2024-12-12 04:09:27] [INFO : ] Ticket Release Rate: 5000
+[2024-12-12 04:09:27] [INFO : ] Ticket Retrieval Rate: 3000
+[2024-12-12 04:09:27] [INFO : ] Max Ticket Capacity: 8
+[2024-12-12 06:45:26] [INFO : ] Configuration saved to system_config.txt
+[2024-12-12 06:45:26] [INFO : ] Total Tickets: 1000
+[2024-12-12 06:45:26] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 06:45:26] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 06:45:26] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 06:46:19] [INFO : ] Configuration loaded from system_config.txt
+[2024-12-12 06:46:19] [INFO : ] Total Tickets: 1000
+[2024-12-12 06:46:19] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 06:46:19] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 06:46:19] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 06:48:08] [INFO : ] Configuration loaded from system_config.txt
+[2024-12-12 06:48:08] [INFO : ] Total Tickets: 1000
+[2024-12-12 06:48:08] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 06:48:08] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 06:48:08] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 06:48:09] [INFO : ] Simulation started
+[2024-12-12 06:48:10] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 06:48:10] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 06:54:22] [INFO : ] Configuration loaded from system_config.txt
+[2024-12-12 06:54:22] [INFO : ] Total Tickets: 1000
+[2024-12-12 06:54:22] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 06:54:22] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 06:54:22] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 06:54:22] [INFO : ] Simulation started
+[2024-12-12 06:54:23] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 06:54:23] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 06:58:54] [INFO : ] Configuration loaded from system_config.txt
+[2024-12-12 06:58:54] [INFO : ] Total Tickets: 1000
+[2024-12-12 06:58:54] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 06:58:54] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 06:58:54] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 06:58:54] [INFO : ] Simulation started
+[2024-12-12 06:58:55] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 06:58:55] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 08:23:30] [INFO : ] Configuration saved to system_config.txt
+[2024-12-12 08:23:30] [INFO : ] Total Tickets: 1000
+[2024-12-12 08:23:30] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 08:23:30] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 08:23:30] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 08:23:52] [INFO : ] Configuration loaded from system_config.txt
+[2024-12-12 08:23:52] [INFO : ] Total Tickets: 1000
+[2024-12-12 08:23:52] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 08:23:52] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 08:23:52] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 08:27:31] [INFO : ] Configuration loaded from system_config.txt
+[2024-12-12 08:27:31] [INFO : ] Total Tickets: 1000
+[2024-12-12 08:27:31] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 08:27:31] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 08:27:31] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 08:27:31] [INFO : ] Simulation started
+[2024-12-12 08:27:32] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 08:27:32] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 08:27:32] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 08:43:08] [INFO : ] Configuration saved to system_config.txt
+[2024-12-12 08:43:08] [INFO : ] Total Tickets: 100
+[2024-12-12 08:43:08] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 08:43:08] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 08:43:08] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 08:43:23] [INFO : ] Configuration loaded from system_config.txt
+[2024-12-12 08:43:23] [INFO : ] Total Tickets: 100
+[2024-12-12 08:43:23] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 08:43:23] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 08:43:23] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 08:45:34] [INFO : ] Configuration loaded from system_config.txt
+[2024-12-12 08:45:34] [INFO : ] Total Tickets: 100
+[2024-12-12 08:45:34] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 08:45:34] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 08:45:34] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 08:45:34] [INFO : ] Simulation started
+[2024-12-12 08:45:35] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 08:45:35] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 08:45:35] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 09:02:08] [INFO : ] Configuration saved to system_config.txt
+[2024-12-12 09:02:08] [INFO : ] Total Tickets: 1000
+[2024-12-12 09:02:08] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 09:02:08] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 09:02:08] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 09:02:26] [INFO : ] Configuration loaded from system_config.txt
+[2024-12-12 09:02:26] [INFO : ] Total Tickets: 1000
+[2024-12-12 09:02:26] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 09:02:26] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 09:02:26] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 09:05:01] [INFO : ] Configuration loaded from system_config.txt
+[2024-12-12 09:05:01] [INFO : ] Total Tickets: 1000
+[2024-12-12 09:05:01] [INFO : ] Ticket Release Rate: 10
+[2024-12-12 09:05:01] [INFO : ] Ticket Retrieval Rate: 5
+[2024-12-12 09:05:01] [INFO : ] Max Ticket Capacity: 500
+[2024-12-12 09:05:01] [INFO : ] Simulation started
+[2024-12-12 09:05:02] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 09:05:02] [WARN : ] Queue is empty. Waiting for tickets to be released.
+[2024-12-12 09:05:02] [WARN : ] Queue is empty. Waiting for tickets to be released.
